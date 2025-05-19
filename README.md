@@ -100,4 +100,4 @@ The application works in several steps:
 
 ## License
 
-This project was part of the online course via udemy.com with addition features.
+This sample project was developed as part of ongoing personal software development training and is freely available for anyone to clone and utilize without restrictions.
