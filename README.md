@@ -100,4 +100,4 @@ The application works in several steps:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project was part of the online course via udemy.com with addition features.
